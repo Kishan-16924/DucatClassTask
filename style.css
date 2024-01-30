@@ -1,0 +1,100 @@
+body{
+background-color: black;
+}
+
+.Uber{
+    background-color: black;
+    color:white;
+    height: 40px;
+    border:8px solid white;
+}
+
+.Amazondiv {
+ margin-top: 20px;
+ background-color: white;
+ width:250px;
+ height:50px;
+ text-align: center;
+ padding-top: 15px;
+ }
+
+ .Amazon{
+    background-color:rgb(255,216,20);
+    height: 40px;
+    width: 200px;
+    border-radius: 20px ;
+    border: none;
+ }
+
+
+.GitHubdiv{
+    margin: 20px;
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.GitHub{
+    font-size: 16px;
+    background-color:green;
+    color:white;
+    border: 1px solid #6C757D;
+     border-radius: 10px; 
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+    padding-left: 25px ;
+    padding-right: 25px ;
+}
+
+.Bootstrapdiv{
+    margin:20px;
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+.Bootstrap-left{
+    background-color: rgb(121,82,179);
+    color: white;
+    margin-right: 2px;
+    height: 40px;
+    border-radius: 5px;
+    width:100px;
+}
+.Bootstrap-right{
+    background-color: white;
+    color: rgb(108,117,125);
+    height: 40px;
+    border-radius: 5px;
+    width:100px;
+}
+
+.LinkedIndiv{
+    margin-top:20px;
+    background-color: white;
+    width:280px;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+.LinkedIn-left{
+    background-color: rgb(10,102,194);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+.LinkedIn-right{
+    color: rgb(10,102,194);
+    border-radius: 30px;
+    border: 1px solid blue;
+    height: 40px;
+    width: 60px;
+}
+
+
+
